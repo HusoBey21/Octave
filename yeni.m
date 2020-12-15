@@ -9,4 +9,4 @@ a=imread('peppers.jpeg');
 >> imshow(c);
 >> %% b secenegi cozumu
 >> %% a seceneginde fourier donusumu uygulandiginda goruntu tamamen bozuluyor b seceneginde gurultu
-eklendiginde netlik bozulsa da gurultu elde ediliyor
+>> %%eklendiginde netlik bozulsa da gurultu elde ediliyor
